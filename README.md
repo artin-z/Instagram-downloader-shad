@@ -13,4 +13,4 @@ To use this bot, you need to install the following modules in Python:
 
 ## Usage
 
-`python main.py'
+`python main.py`
