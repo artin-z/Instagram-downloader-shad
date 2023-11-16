@@ -24,6 +24,7 @@ orders:
 
 **Tip: You should write in Instagram link instead of Instagra**
 
+**example**:`/d https://www.instagra.com/reel/CxeNXM9hwlC/?igshid=MzRlODBiNWFlZA==`
 ## Author
 
-Artin kakavand
+**Artin kakavand**
