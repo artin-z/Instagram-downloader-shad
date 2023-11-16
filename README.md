@@ -15,6 +15,14 @@ To use this bot, you need to install the following modules in Python:
 
 `python main.py`
 
+enter your phone number account for bot
+
+orders:
+
+`/d your Instagram link
+
+Tip: You should write in Instagram link instead of Instagra
+
 ## Author
 
 Artin kakavand
