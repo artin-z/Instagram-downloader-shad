@@ -7,9 +7,10 @@ Instagram Downloader Shad is a simple bot for the Shad messenger that allows you
 ## Libraries
 
 To use this bot, you need to install the following modules in Python:
-
-`pip install shadpy`
-`pip install beautifulsoup4`
+```
+pip install shadpy
+pip install beautifulsoup4
+```
 
 ## Usage
 
@@ -19,9 +20,9 @@ enter your phone number account for bot
 
 orders:
 
-`/d your Instagram link
+`/d your Instagram link`
 
-Tip: You should write in Instagram link instead of Instagra
+**Tip: You should write in Instagram link instead of Instagra**
 
 ## Author
 
