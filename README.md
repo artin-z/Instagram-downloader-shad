@@ -22,7 +22,7 @@ orders:
 
 `/d your Instagram link`
 
-> **Note**
+> [!NOTE]
 >You should write in Instagram link instead of Instagra
 
 **example**:`/d https://www.instagra.com/reel/CxeNXM9hwlC/?igshid=MzRlODBiNWFlZA==`
